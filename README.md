@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**Gutierrezor/Gutierrezor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### hola soy julian andres gutierrez ordoñez 
+curso 5 semestre de ingeneria de sistema en la corhuila. tengo bases en la creacion de base de datos, html,css, los lenguaje que se utilizar son java, pyhton y javaScript.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
