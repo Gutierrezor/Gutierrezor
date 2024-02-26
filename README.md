@@ -11,3 +11,5 @@ JavaScript: https://www.credly.com/badges/c500077a-174d-4da0-9c47-1dfc97dd5052/p
 Data Science: https://www.credly.com/badges/06cc5cf6-b0bd-4c2d-bb16-ceff7fbc564f/public_url
 
 Microsoft Azure Fundamentals: https://learn.microsoft.com/en-us/training/achievements/learn.wwl.microsoft-azure-fundamentals-describe-cloud-concepts.trophy?username=JulianAndresGutierrezOrdoez-6637&sharingId=D3A094EFBD810E83
+
+correo: juliangutierrezor@gmail.com
