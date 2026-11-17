@@ -33,8 +33,3 @@ Tengo bases en creación de bases de datos, HTML y CSS, y trabajo principalmente
 - 📧 juliangutierrezor@gmail.com
 - 🌐 [Portafolio](https://portafolio-julian-psi.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/julianandresgutierrez)
-
-## Estadísticas
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Gutierrezor&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Gutierrezor&layout=compact&theme=dark)
